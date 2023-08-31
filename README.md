@@ -38,6 +38,7 @@ Detail the data cleaning steps you've taken to preprocess the dataset.
 Explain how to export the cleaned dataset back to Google Drive.
 
 ## Data Exploration
+<img width="1029" alt="Screenshot 2023-08-31 at 23 39 14" src="https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/assets/61727513/9ab237b1-684f-45b5-8e3f-d9a86cbe16a4">
 
 
 ### VARIABLES ANALYSIS
@@ -54,7 +55,8 @@ stars - Nominal
 votes - Numeric
 ## Data Preparation
 
-Describe the data preparation steps for further analysis.
+<img width="1440" alt="Screenshot 2023-08-31 at 23 40 03" src="https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/assets/61727513/1b02f1e5-803c-4709-ab79-f3df89789be7">
+
 
 ## Predicting Genre of the Movies
 
