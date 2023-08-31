@@ -69,12 +69,14 @@ Detail the Random Forest classification approach.
 Explain the Gradient Boosting Classifier method.
 
 ## Visualization of Genre
+<img width="601" alt="Screenshot 2023-08-31 at 23 32 18" src="https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/assets/61727513/bdf674e9-c5fb-471d-9db3-35336c981e69">
+<img width="616" alt="Screenshot 2023-08-31 at 23 33 02" src="https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/assets/61727513/5f441c51-9850-48f3-a760-6dea6c903c6b">
 
-Discuss visualizations created to better understand the genre distribution.
 
 ## UML Findings of Subcluster in Genre
 
-Share UML findings related to subclusters within movie genres.
+![newplot](https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/assets/61727513/0a271abf-90b8-4fdd-b4e8-8f04a4060545)
+
 
 ## Movies Recommendation based on Ratings and Description
 
@@ -85,8 +87,9 @@ Explain the approach used to recommend movies based on ratings and descriptions.
 Detail the sentiment analysis process based on movie descriptions.
 
 ## Wordcloud of Genre of Netflix
+<img width="989" alt="Screenshot 2023-08-31 at 23 35 51" src="https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/assets/61727513/3952436f-fd2a-490d-8816-4e0f0552eb80">
 
-Discuss the creation and significance of the genre-based wordcloud.
+
 
 ## Questions
 
