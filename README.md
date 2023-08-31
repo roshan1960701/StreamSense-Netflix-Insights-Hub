@@ -93,7 +93,13 @@ Detail the sentiment analysis process based on movie descriptions.
 
 ## Questions
 
-Address potential questions that readers or users might have about your project.
+Predicting the genre of movies based on their rating, votes, and release year. If the features are good enough to predict genre
+
+Creating a recommender system that suggests movies to users based on their past viewing history.
+
+Predicting Collaboration between actors based on previews collaboration
+
+Predict the reqaction of viewers based on the decription of movies
 
 ## References
 
