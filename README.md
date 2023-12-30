@@ -2,6 +2,11 @@
 
 An extensive project exploring Netflix data through various stages: reading, cleaning, exploration, preparation, classification, visualization, recommendation, and sentiment analysis.
 
+![Analysis Image](https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/blob/main/FotoJet.jpg)
+
+![wordCLoud](https://github.com/roshan1960701/StreamSense-Netflix-Insights-Hub/blob/main/Screenshot%202023-12-30%20at%2012.54.28.png)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
